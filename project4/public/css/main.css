@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Junction';
+    src: url('../fonts/junction-regular.woff') format('woff');
+}
+
+* {
+    font-family: 'Junction';
+}
+
+img {
+    max-width: 100%;
+}
+
+
+
+@media screen and (min-width: 30em) {
+
+}
+
+@media screen and (min-width: 50em) {
+}
