@@ -1,14 +1,29 @@
-@font-face {
-    font-family: 'Junction';
-    src: url('../fonts/junction-regular.woff') format('woff');
-}
 
-* {
-    font-family: 'Junction';
+*{
+   font-family: Arial, sans-serif;
 }
 
 img {
     max-width: 100%;
+}
+
+.all{
+    border-bottom: solid #4285F4 3px;
+   margin-right: 3%;
+    margin-left: 3%;
+    padding-top: 5%;
+
+
+}
+.images{
+    border-bottom: solid #4285F4 3px;
+    margin-right: 3%;
+    margin-left: 3%;
+    padding-top: 5px;
+}
+.fi-thumbnails{
+    font-size: 180%;
+    color: #727272;
 }
 
 
