@@ -1,0 +1,57 @@
+@import "utility";
+
+*{
+  font-family: Arial, sans-serif;
+}
+
+img {
+  max-width: 100%;
+}
+
+.all{
+  border-bottom: solid $googleblue 3px;
+  margin-right: 3%;
+  margin-left: 3%;
+  padding-top: 5%;
+
+
+}
+.images{
+  border-bottom: solid $googleblue 3px;
+  margin-right: 3%;
+  margin-left: 3%;
+  padding-top: 5px;
+}
+.fi-thumbnails{
+  font-size: 180%;
+  color: #727272;
+  padding-top: 10%;
+  margin-left: 30%;
+}
+.profile{
+  border-radius: 50%;
+  margin-top: 3%;
+  margin-right: 3%;
+  border:solid red 3px;
+  float: right;
+  position: relative;
+}
+.bell{
+  background-color: grey;
+  height: 40px;
+  width: 40px;
+  border-radius:50%;
+  border:solid red 3px;
+  position: relative;
+  margin-right: 5%;
+  margin-top: 3%;
+}
+
+
+
+@media screen and (min-width: 30em) {
+
+}
+
+@media screen and (min-width: 50em) {
+}
