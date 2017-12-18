@@ -1,0 +1,54 @@
+@import "utility";
+*{
+  font-family: arial, sans-serif;
+}
+
+.top-part{
+  background-color: rgb(188, 188, 188);
+  width: 100%;
+}
+
+.image{
+  padding-left: 30%;
+  padding-right: 30%;
+}
+
+.search{
+  width: 100%;
+}
+
+.all-results{
+  font-family: Arial,sans-serif;
+  font-size: 1em;
+  color: $googleblue;
+  width: 100%;
+  background-color: rgb(211, 211, 211);
+  border: solid rgb(197, 197, 197) 1px;
+  height: 4em;
+
+}
+
+.all-results:hover{
+  background-color: rgb(177, 177, 177);
+}
+.url{
+  font-size: .9em;
+  padding-left: .7em;
+
+}
+.url:hover{
+  font-style:italic;
+}
+
+
+.result-1,.result-2,.result-3,.result-4,.result-5,{
+  font-family: Arial,sans-serif;
+  font-size: 1em;
+  color: $googleblue;
+  width: 100%;
+  background-color: rgb(211, 211, 211);
+  border: solid rgb(197, 197, 197) 1px;
+  height: 4em;
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
+}

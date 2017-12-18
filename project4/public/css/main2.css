@@ -1,0 +1,51 @@
+html {
+  height: 100%; }
+
+body {
+  height: 100%; }
+
+* {
+  font-family: arial, sans-serif; }
+
+.top-part {
+  background-color: #bcbcbc;
+  width: 100%; }
+
+.image {
+  padding-left: 30%;
+  padding-right: 30%; }
+
+.search {
+  width: 100%; }
+
+.all-results {
+  font-family: Arial,sans-serif;
+  font-size: 1em;
+  color: #4285f4;
+  width: 100%;
+  background-color: lightgray;
+  border: solid #c5c5c5 1px;
+  height: 4em; }
+
+.all-results:hover {
+  background-color: #b1b1b1; }
+
+.url {
+  font-size: .9em;
+  padding-left: .7em; }
+
+.url:hover {
+  font-style: italic; }
+
+.result-1, .result-2, .result-3, .result-4, .result-5 {
+  font-family: Arial,sans-serif;
+  font-size: 1em;
+  color: #4285f4;
+  width: 100%;
+  background-color: lightgray;
+  border: solid #c5c5c5 1px;
+  height: 4em;
+  padding-top: 1.5em;
+  padding-bottom: 1.5em; }
+
+/*# sourceMappingURL=main2.css.map */
